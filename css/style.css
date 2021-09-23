@@ -1,0 +1,328 @@
+*{
+	margin: 0px ;
+	padding: 0px;
+}
+body{
+	font-family: sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: monospace;
+}
+a, a:hover{
+	text-decoration: none;
+}
+/* global css start here */
+section{
+	width: 1140px;
+	margin: 0px auto;
+}
+.containaer{
+	width:100%;
+}
+.row{
+	float: left;
+	width: 100%;
+}
+.col-4{
+	float: left;
+	width: 25%;
+}
+.col-6{
+	width: 50%;
+	float: left;
+}
+.col-5{
+	float: left;
+	width:  20%;
+}
+.col-7{
+	float: left;
+	width:  80%;
+}
+.col-8{
+	float: left;
+	width:75%;
+}
+
+.col-12{
+	width: 100%;
+	float: left;
+}
+/* global css end here */
+
+/* pragaraph css here */
+.p-actor{
+	font-size: 12px;
+	color:#E7F0EF ;
+	margin:0px 0px 21.5% 25%;
+}
+.p-about{
+	font-size: 10px;
+	line-height: 10px;
+	color: #CDCCCC;
+}
+.p-about2{
+	font-size: 10px;
+	line-height: 10px;
+	margin-top: 20px;
+	color: #CDCCCC;
+}
+.vew-full{
+	font-size: 13px;
+	margin-left:  565px;
+	margin-right:565px ;
+	margin-top: 25px;
+	margin-bottom: 60px;
+	background: #F7DC4F;
+}
+.martinez-p{
+	line-height: 12px;
+	font-size: 15px;
+	margin-left:40px;
+	margin-top:20px;
+	color:#6D6E6A;
+
+}
+.xyz p{
+	font-weight: 400;
+  	font-size: 8px;
+  	color: #ADC8CC;
+  	line-height: 15px;
+}
+/* heading css here */
+.h-saniel{
+	font-size: 20px;
+	font-weight: 700;
+	color: #B3B754;
+	margin: 45px 0px 0px 40px;
+}
+.col-6 .h-hey{
+	font-size: 35px;
+	margin:15% 0px 20px 25%;
+	color:  #B3B754;
+	
+}
+.h-daniel{
+	font-size: 70px;
+	font-weight: 700;
+	line-height: 60px;
+	color: #E7F0EF;
+	margin:0px 0px 10px 25%;
+}
+.h-about{
+	font-size: 30px;
+	font-weight: 700;
+	color: #015761;
+	margin: 40px 0px 20px 0px;
+}
+.h-showreel{
+	font-size: 48px;
+	color: #004E59; 
+}
+.h-photos{
+	font-size: 48px;
+	color: #004E59; 
+}
+ .xyz h1{
+  	font-weight: 700;
+  	font-size: 60px;
+  	color: #FCDE4E;
+  	margin: 25% 0px 10% 0px;
+  }
+.xyz h5{
+    font-weight: 700;
+  	font-size: 14px;
+  	color: #ADC8CC;
+  	margin: 3% 0px;
+    }
+.xyz h6{
+	font-weight: 700;
+  	font-size: 16px;
+  	color: #ADC8CC;
+  	margin-top: 10px;
+}  
+/* img css here */
+.img1{
+	width: 100%;
+}
+.img2{
+	width: 100%;
+}
+.rrr img{
+ 	height: 100%;
+ 	width: 100%;
+ 	float: left;
+ }
+/* header css here */
+.header{
+	width: 100%;
+	position: relative;
+	
+}
+.head-row{
+	background: #20A4E6;
+	padding: 20px;
+	position: fixed;
+}
+.h-daniel1{
+	margin-left: 55px;
+}
+.h-daniel1 a{
+	
+	font-size: 40px;
+	font-weight: 700;
+	color: #FF9800;
+	line-height: 35px;
+}
+.bio a{
+	color:#015761;
+	transition: 1s;
+}
+.bio a:hover{
+	color:#4ADDFC;
+}
+.bio ul{
+	margin-left: 33%;
+	margin-top: 7px;
+}
+.bio li{
+	list-style: none;
+	display: inline-block;
+	font-size: 20px;
+	padding: 0px;
+	color: #E7F0EF;
+	transition: 1s;
+	margin: 13px 0px 20px 30px;
+}
+/* 1st stap start here */
+.Daniel-Martinez{
+	margin-top: 9%;
+}
+.abc{
+	background: #015761;
+}
+
+.col-6 li:hover{
+	color: #818991;
+}
+.need{
+	float: left;
+	width: 97%;
+}
+
+/* 1st stap end here */
+/* about me start here */
+
+.def{
+	background: #F1F0F0;
+	text-align: center;
+}
+.vew-full:hover{
+	background:#FD9600 ;
+}
+/* about me end here */
+/* showreel start here */
+
+.row1{
+	text-align: center;
+	padding: 70px 0px 70px 0px;
+}
+/* showreel end here */
+/* photos css start here */
+.row2{
+	text-align: center;
+	padding: 70px 0px 70px 0px;
+}
+
+/* photos css end here */
+/*1st 3 photos css start here */
+
+.extra{
+	margin-bottom:15px;
+	margin-left: 15px;
+	margin-right: 15px;
+	width: 100%;
+	padding-bottom:0px ;
+	float: left;
+	
+}
+.dog2{
+	margin-left: 16px;
+}
+.dog3{
+	margin-left: 20px;
+}
+/*1st 3 photos css start here */
+/* last css start here */
+.ooo{
+	margin-top: 5%;
+}
+ 
+ .contact{
+ 	background: #015761;
+ }
+ 
+ .xyz{
+ 	margin-left: 30%;
+ }
+
+
+.ul{	
+	margin-bottom: 70px;
+	margin-top: 20px;
+	margin-left: 25%;
+	line-height: 10px;
+
+}
+.ul li{
+	display: inline-block;
+	padding: 20px;
+	height: 20px;
+	width: 20px;
+	transition: 1s;
+	margin: 0px 0px 0px 25px;
+	border-radius: 100%;
+	text-align: center;
+
+}
+.ul li:hover{
+	background: #28AFEA;
+	
+}
+.ul li a{
+	color: #D3E3E5;
+	list-style: none;
+	font-size: 25px;
+}
+
+/* last css end here */
+/* footer css start here */
+.footer{
+	padding: 15px 0px;
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	color: #551A8B;
+	background: #218FA6;
+
+}
+.footer-section{
+	width: 100%;
+}
+.nayem-a{
+	color:#A6E22B;
+}
+/* footer css start here */
+/* manu css here  */
+.row-2{
+	margin-top: 10%;
+}
+.ooo2{
+	margin-top: 10%;
+}
+.vedio-0{
+	margin-top: 10%;
+
+}
